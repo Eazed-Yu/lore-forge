@@ -1,0 +1,13 @@
+{
+  "name": "lore-forge-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "mammoth": "^1.8.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "@types/node": "^20.0.0"
+  }
+}
