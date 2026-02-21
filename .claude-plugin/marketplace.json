@@ -1,0 +1,21 @@
+{
+  "name": "lore-forge",
+  "owner": {
+    "name": "Eazed-Yu"
+  },
+  "metadata": {
+    "description": "Resume to GitBook-style learning documentation generator",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lore-forge",
+      "description": "Read resumes and generate GitBook-style self-study documentation websites with knowledge point teaching and interview question simulation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/lore-forge"
+      ]
+    }
+  ]
+}
