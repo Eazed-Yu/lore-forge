@@ -4,13 +4,13 @@
     "name": "Eazed-Yu"
   },
   "metadata": {
-    "description": "Resume to GitBook-style learning documentation generator",
+    "description": "简历转 GitBook 风格自学文档生成器",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "lore-forge",
-      "description": "Read resumes and generate GitBook-style self-study documentation websites with knowledge point teaching and interview question simulation",
+      "description": "读取简历并生成 GitBook 风格自学文档网站，包含知识点教学与面试题模拟",
       "source": "./",
       "strict": false,
       "skills": [
